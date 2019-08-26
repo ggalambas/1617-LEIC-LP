@@ -5,7 +5,3 @@ Project, Sudoku Problem Solver
 
 #### Language
 Prolog
-
-#### Compile
-
-#### Run
