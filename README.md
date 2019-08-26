@@ -7,6 +7,5 @@ Project, Sudoku Problem Solver
 Prolog
 
 #### Compile
-```gcc -Wall -o proj2 *.c```
 
 #### Run
