@@ -1,10 +1,10 @@
-# Introduction to Algorithms and Data Structures (IAED)
+# Logic for Programming (LP)
 ## Bachelor of Computer Science & Engineering @ Instituto Superior Técnico
-2nd Project, Product Warehouse
+Project, Sudoku Problem Solver
 <br><br>
 
 #### Language
-C
+Prolog
 
 #### Compile
 ```gcc -Wall -o proj2 *.c```
